@@ -16,3 +16,6 @@ This project consists of 4 Tables each with a primary key and a foreign key whic
 ![Relation database](https://user-images.githubusercontent.com/84149050/216843327-fc063aab-a0f9-4fbb-b432-a8705a43437e.jpg)
 
 
+Question : Choose something noteworthy about the data and share with a non-technical stakeholder
+
+The relation between the table brand and table receipt_items could have been through bar code which was not the case and intead brand_code needed to be used. There were plenty of null values which caused loss and error data issues, it could be cleaned instead as long as there is no loss of valuable data.
