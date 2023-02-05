@@ -11,4 +11,8 @@ This project consists of 4 Tables each with a primary key and a foreign key whic
   
   4) users : Table consisting of user/customer data like, Date of Birth, Gender, State,...., ID (Primary Key)
   
+  Figure : The below Schema Shows the tables and its columns and the link between them....
   
+![Relation database](https://user-images.githubusercontent.com/84149050/216843327-fc063aab-a0f9-4fbb-b432-a8705a43437e.jpg)
+
+
